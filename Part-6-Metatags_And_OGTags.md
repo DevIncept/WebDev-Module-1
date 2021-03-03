@@ -5,7 +5,7 @@
 * Metadata will not be displayed on the page, it is only read by computer.
 ## Attributes
 |Sr.No    | Attributes   |Description                                                                                  |
-|---------|--------------|---------------------------------------------------------------------------------------------|
+|:---------:|:--------------:|:---------------------------------------------------------------------------------------------:|
 | 1       | Name         | Specifies a name for the metadata                                                           |
 | 2       | Content      | Specify the actual meta content                                                             |
 | 3       | Charset      | Specifies the character encoding for HTML document                                          |
@@ -47,7 +47,7 @@ For example:
 ghklolg
 # Basics 
 |Tags|Description| 
-|---------|---------|
+|:---------:|:---------:|
 |  og:title  |   This is typically the same as your webpage's title tag unless you’d like to present it differently.  |  
 |  og:type  |  The “type” of website you have.  | 
 |  og:image |  This should be a link to an image that you’d like to represent your content. It should be a high resolution image that the social networks will use in their feeds.|
