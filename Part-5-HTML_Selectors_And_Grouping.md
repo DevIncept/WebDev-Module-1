@@ -1,4 +1,4 @@
-# :zap: ***ID Selector*** 
+#  ***ID Selector*** 
 
 Document languages may contain attributes that are declared to be of type ID. What makes attributes of type ID special is that no two such attributes can have the same value; whatever the document language, an ID attribute can be used to uniquely identify its element. In HTML all ID attributes are named "id"; XML applications may name ID attributes differently, but the same restriction applies
 
@@ -14,7 +14,7 @@ Document languages may contain attributes that are declared to be of type ID. Wh
 
 **For ex :-**
 
-- HTML elements with class="center" will be red and center-aligned :straight_ruler:
+- HTML elements with class="center" will be red and center-aligned
 
 ```` html
 <div>
@@ -22,7 +22,7 @@ Document languages may contain attributes that are declared to be of type ID. Wh
 </div>
 
 ````
-- In CSS Doc to style that Particular DIV we write as follows :straight_ruler:
+- In CSS Doc to style that Particular DIV we write as follows 
 
 ``` css
 
@@ -30,9 +30,9 @@ Document languages may contain attributes that are declared to be of type ID. Wh
     color: green;
 }
 ```
-This will make the Paragraph tag text color to green :green_book:
+This will make the Paragraph tag text color to green 
 
-# :rocket:***Class Selector*** 
+# ***Class Selector*** 
 
 - Class selector are used when we want to style more that one object.
 - Multiple elements in the document can have same class.
@@ -44,7 +44,7 @@ This will make the Paragraph tag text color to green :green_book:
 
 **For ex :-**
 
-In HTML document we write :pencil2:
+In HTML document we write 
 
 ``` html
 <div>
@@ -52,7 +52,7 @@ In HTML document we write :pencil2:
 </div>
 ```
 
-To style this in CSS we write :pencil2:
+To style this in CSS we write 
 
 ```css
 .red{
@@ -63,13 +63,13 @@ The class selector selects elements with a specific class attribute. It matches 
 
 <br>
 
-# :warning:***The difference between Class and ID selector***
+#   **The difference between Class and ID selector**
 
 ### The difference between an ID and a class is that an ID is only used to identify one single element in our HTML. IDs are only used when one element on the page should have a particular style applied to it. However, a class can be used to identify more than one HTML element.
 
 <br>
 
-# :computer: ***Code*** 
+# **Code** 
 
 ```html
 <html>
@@ -98,7 +98,7 @@ The class selector selects elements with a specific class attribute. It matches 
 The following code demonstrates the difference between class and ID selectors, ​and how to set their individual properties. The code sets a class for the div and, therefore, all the elements within the div will have this class. However, one of the paragraphs is assigned an ID which allows individual properties to be set for this particular paragraph. These properties are set using the appropriate class and ID selectors.
 ```
 
-# :sparkles: ***Grouping*** 
+# **Grouping** 
 
 
 The grouping selector selects all the HTML elements with the same style definitions.
@@ -185,7 +185,7 @@ There is no condition for how the elements should be grouped we can group all th
 
 <br>
 
-# :milky_way: ***Universal Selector*** 
+#  **Universal Selector** 
 
 - Universal Selector is used to select all the type of elements.
 - Universal Selector can be used to set same value to the elements.
