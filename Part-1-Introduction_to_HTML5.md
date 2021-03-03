@@ -68,7 +68,6 @@ Then under "Open and Save", check the box that says "Display HTML files as HTML 
 
 ![](https://www.w3schools.com/html/img_chrome.png)
 
-**<span style="color:red">Bingo....!!!** you made it :smile: :smile:
 
 * Here's your first HTML page.
 
