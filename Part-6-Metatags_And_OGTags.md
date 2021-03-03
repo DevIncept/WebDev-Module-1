@@ -4,13 +4,13 @@
 * Metadata is used by browsers (how to display content or reload page), search engines (keywords), and other web services.
 * Metadata will not be displayed on the page, it is only read by computer.
 ## Attributes
-|Sr.No | Attributes   |Description|
-|---------|---------|---------- |
-| 1  | Name | Specifies a name for the metadata |
-| 2 | Content | Specify the actual meta content |
-| 3 | Charset | Specifies the character encoding for HTML document |
-| 4 | Scheme | Specifies a scheme to interpret the property's value (as declared in the content attribute).|
-| 5 | Http-equiv | Provides an HTTP header for the information/value of the content attribute |
+|Sr.No    | Attributes   |Description                                                                                  |
+|---------|--------------|---------------------------------------------------------------------------------------------|
+| 1       | Name         | Specifies a name for the metadata                                                           |
+| 2       | Content      | Specify the actual meta content                                                             |
+| 3       | Charset      | Specifies the character encoding for HTML document                                          |
+| 4       | Scheme       | Specifies a scheme to interpret the property's value (as declared in the content attribute).|
+| 5       | Http-equiv   | Provides an HTTP header for the information/value of the content attribute                  |
 ## Uses of metatag
 #### Specifying your document's character encoding
 ```HTML
