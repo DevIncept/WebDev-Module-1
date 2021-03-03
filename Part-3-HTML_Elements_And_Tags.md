@@ -24,7 +24,7 @@ The content of an element is, generally speaking, whatever falls inbetween its o
 
 In the following example are three elements each containing a different type of content: the paragraph (<'p> element), cointaining other elements; a word with emphasis (<'em> element), containing plain text; and a button (input (type=button) element), which is an empty element, code line 20
 
-:star: **HTML Tags**
+ **HTML Tags**
 
 |       Tags                            |     Description                                                                                |
 |---------------------------------------|------------------------------------------------------------------------------------------------|
@@ -46,11 +46,12 @@ Elements can be placed in two distinct groups: block level and inline level elem
 
 Also, a block element occupies 100% of the available width and it is rendered with a line break before and after. Whereas, an inline element will take up only as much space as it needs.
 
-:star: **Div and Span tag**
+ **Div and Span tag**
   
   **div** tag should be used for grouping a set of related elements to create a relationship between them on a webpage, the **span** tag should be used to change the style of something on a webpage without affecting the context it is within. 
   
  ## Executed Code Example: 
+ 
  <!DOCTYPE html>
 <html lang="en">
 <head>
