@@ -1,6 +1,6 @@
 # WebDev-Module-1
 
-1. PreRequisite-1: [History Of HTML](https://github.com/DevIncept/WebDev-Module-1/blob/main/PreRequisite-1-History_Of_HTML.md)
+1. PreRequisite-1: [History Of HTML](PreRequisite-1-History_Of_HTML.md)
 2. PreRequisite-2: [What Happens When You Type A URL In A Browser](https://github.com/DevIncept/WebDev-Module-1/blob/main/PreRequisite-2-What_happens_when_you_type_URL.md)
 
 ## A) Introduction To HTML5:
