@@ -16,7 +16,9 @@ http://www.google.com/index.html
 # TCP/IP
 The TCP/IP reference model is a layered model developed by the Defense Project Research Agency(ARPA or DARPA) of the United States as a part of their research project in 1960. Initially, it was developed to be used by defense only. But later on, it got widely accepted. The main purpose of this model is to connect two remote machines for the exchange of information. These machines can be operating in different networks or have different architecture.
 ![TCP layers](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-the-tcp-ip-model-and-how-it-works-tcp-ip-model-five-layers-195bdaa7116cd850.jpg)
+
 *The key features of the TCP/IP model are as follows:*
+
 1.**Supports flexible architecture**: We can connect two devices with totally different architecture using the TCP/IP model.
 
 2.**End-node verification**: The end-nodes(source and destination) can be verified, and connection can be made for the safe and successful transmission of data.
