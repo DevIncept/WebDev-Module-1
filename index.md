@@ -5,7 +5,7 @@
 
 ## A) Introduction To HTML5:
    
-   1. Part-1: [Introduction To HTML5](https://github.com/DevIncept/WebDev-Module-1/blob/main/Part-1-Introduction_to_HTML5.md)          
+   1. Part-1: [Introduction To HTML5](Part-1-Introduction_to_HTML5.md)          
    2. Part-2: [Different HTML Doctypes](https://github.com/DevIncept/WebDev-Module-1/blob/main/Part-2-Different_HTML_Doctypes.md)              
    3. Part-3: [HTML Elements And Tags](https://github.com/DevIncept/WebDev-Module-1/blob/main/Part-3-HTML_Elements_And_Tags.md)      
           a.) [Code 1](https://github.com/DevIncept/WebDev-Module-1/blob/main/Code-1-First_Example.html)                 
