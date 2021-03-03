@@ -9,7 +9,7 @@
    2. Part-2: [Different HTML Doctypes](Part-2-Different_HTML_Doctypes.md)              
    3. Part-3: [HTML Elements And Tags](Part-3-HTML_Elements_And_Tags.md)      
           a.) [Code 1](Code-1-First_Example.html)                 
-   4. Part-4: [HTML Attributes(Media Attributes)](Part-4-HTML_Attributes(Media_20Attributes).md)        
+   4. Part-4: [HTML Attributes(Media Attributes)](Part-4-HTML_Attributes(Media_Attributes).md)        
    5. Part-5: [HTML Selectors And Grouping](Part-5-HTML_Selectors_And_Grouping.md)             
    6. Part-6: [Metatags And OGTags](Part-6-Metatags_And_OGTags.md)                  
    7. Part-7: [HTML Forms](Part-7-HTML_Forms.md)                   
