@@ -52,23 +52,14 @@ Also, a block element occupies 100% of the available width and it is rendered wi
   
  ## Executed Code Example: 
  
- <!DOCTYPE html>
-<html lang="en">
-<head>
-<title>DevIncept Eg:1</title>
-<meta charset="UTF-8">
-<meta name="description"content="one of the best university">
-<meta name="keyword"content="btech,MCA">
-<meta name="viewport"content="width=divice-width initial-scale="1.0"
-</head>
-<body>
-<header>
-</header>
+ > DevIncept Eg:1
+ 
+
 <center>
 <table border="1" cellspacing="10px" cellpadding="10px" width="500px">
-<caption style="color:blue;">Student Data</caption></caption>
+<caption style="color:blue;">Student Data</caption>
 <tr>
-<th colspan="5" /th>DOT
+<th colspan="5">DOT</th>
 </tr>
 <tr>
 <th> rollno </th>
@@ -84,8 +75,14 @@ Also, a block element occupies 100% of the available width and it is rendered wi
 <td>98</td>
 <td>196</td>
 </tr>
-</center>
+
 </table>
-<footer style="margin-top:60%;">
-</body>
-</html>
+</center>
+
+<br>
+
+<br>
+
+<br>
+
+
