@@ -11,4 +11,4 @@ Points to Remember:
 
 Resources:
 * Tribute Page: Tribute page is an act, statement, or gift that is intended to show gratitude, respect, or admiration to someone. 
-* Example: [Dr. Norman Borlaug](codepen.io/freeCodeCamp/full/zNqgVx)
+* Example: [Dr. Norman Borlaug](https://codepen.io/freeCodeCamp/full/zNqgVx)
