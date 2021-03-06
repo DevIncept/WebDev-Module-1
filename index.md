@@ -18,3 +18,6 @@
 
    8. Part-8: [Introduction To CSS-1](Part-8-Introduction_to_CSS-1.md)
    9. Part-9: [Introduction To CSS-2](Part-9-Introduction_to_CSS-2.md)
+   
+# Assignment
+1. Assignment-1: [Tribute Page](Assignment-1.md)
