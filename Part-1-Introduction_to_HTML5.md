@@ -5,7 +5,7 @@
 * Learn HTML Using Notepad or TextEdit.
 * However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac).
 * We believe in that using a simple text editor is a good way to learn HTML.
-* Follow the process below to create your first web page with Notepad or TextEdit.
+* Follow the process below to create your first web page with Notepad or TextEditdvsdges.
 
 ***Process 1 For Window users :*** 
 <br>
