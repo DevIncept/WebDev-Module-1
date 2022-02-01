@@ -44,7 +44,6 @@ It is used to create preview of your content.This will help encourage people to 
 Just like a facebook post of websites where you can see how nicely the preview of your content is made.
 For example:
 ![OG example](https://realfavicongenerator.net/blog/wp-content/uploads/2017/01/crop_example_2-272x300.png)
-ghklolg
 # Basics 
 |Tags|Description| 
 |:---------:|:---------:|
